@@ -1,0 +1,29 @@
+/***** Variables *****/
+$zero: 0;
+$one: 1;
+$two: 2;
+$five: 5;
+$ten: 10;
+$twenty: 20;
+$fullPercentage: 100%;
+$center: center;
+$flex: flex;
+$dimension: $spacing;
+
+/***** Spacing Dimensions *****/
+$spacingXS: ($dimension * .25); //0.25rem
+$spacingSM: ($dimension * .5); //0.5rem
+$spacing: $dimension; //1rem
+$spacingMD: ($dimension * 2); //2rem
+$spacingLG: ($dimension * 4); //4rem
+$spacingXL: ($dimension * 8); //8rem
+$spacingXXL: ($dimension * 16); //16rem
+
+/***** Typography Dimensions *****/
+$typographyXS: ($dimension * .625); //0.625rem
+$typographySM: ($dimension * .875); //0.875rem
+$typography: $dimension; //1rem
+$typographyMD: ($dimension * 1.25); //1.25rem
+$typographyLG: ($dimension * 1.5); //1.5rem
+$typographyXL: ($dimension * 2.25); //2.25rem
+$typographyXXL: ($dimension * 3rem); //3rem
