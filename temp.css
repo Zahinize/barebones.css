@@ -5,11 +5,11 @@
 }
 
 .u-padding-t1 {
-	padding-top: $spacingXS !important;
+	padding-top: 0.25rem !important;
 }
 
 .u-padding-t2 {
-	padding-top: $spacingSM !important;
+	padding-top: 0.5rem !important;
 }
 
 .u-padding-t3 {
@@ -38,11 +38,11 @@
 }
 
 .u-padding-r1 {
-	padding-right: $spacingXS !important;
+	padding-right: 0.25rem !important;
 }
 
 .u-padding-r2 {
-	padding-right: $spacingSM !important;
+	padding-right: 0.5rem !important;
 }
 
 .u-padding-r3 {
@@ -71,11 +71,11 @@
 }
 
 .u-padding-b1 {
-	padding-bottom: $spacingXS !important;
+	padding-bottom: 0.25rem !important;
 }
 
 .u-padding-b2 {
-	padding-bottom: $spacingSM !important;
+	padding-bottom: 0.5rem !important;
 }
 
 .u-padding-b3 {
@@ -104,11 +104,11 @@
 }
 
 .u-padding-l1 {
-	padding-left: $spacingXS !important;
+	padding-left: 0.25rem !important;
 }
 
 .u-padding-l2 {
-	padding-left: $spacingSM !important;
+	padding-left: 0.5rem !important;
 }
 
 .u-padding-l3 {
@@ -139,13 +139,13 @@
 }
 
 .u-padding-v1 {
-	padding-top: $spacingXS !important;
-	padding-bottom: $spacingXS !important;
+	padding-top: 0.25rem !important;
+	padding-bottom: 0.25rem !important;
 }
 
 .u-padding-v2 {
-	padding-top: $spacingSM !important;
-	padding-bottom: $spacingSM !important;
+	padding-top: 0.5rem !important;
+	padding-bottom: 0.5rem !important;
 }
 
 .u-padding-v3 {
@@ -180,13 +180,13 @@
 }
 
 .u-padding-h1 {
-	padding-left: $spacingXS !important;
-	padding-right: $spacingXS !important;
+	padding-left: 0.25rem !important;
+	padding-right: 0.25rem !important;
 }
 
 .u-padding-h2 {
-	padding-left: $spacingSM !important;
-	padding-right: $spacingSM !important;
+	padding-left: 0.5rem !important;
+	padding-right: 0.5rem !important;
 }
 
 .u-padding-h3 {
@@ -220,11 +220,11 @@
 }
 
 .u-padding-1 {
-	padding: $spacingXS !important;
+	padding: 0.25rem !important;
 }
 
 .u-padding-2 {
-	padding: $spacingSM !important;
+	padding: 0.5rem !important;
 }
 
 .u-padding-3 {
@@ -254,10 +254,10 @@
 		padding-top: 0 !important;
 	}
 	.u-padding-t1--sm {
-		padding-top: $spacingXS !important;
+		padding-top: 0.25rem !important;
 	}
 	.u-padding-t2--sm {
-		padding-top: $spacingSM !important;
+		padding-top: 0.5rem !important;
 	}
 	.u-padding-t3--sm {
 		padding-top: 1rem !important;
@@ -279,10 +279,10 @@
 		padding-right: 0 !important;
 	}
 	.u-padding-r1--sm {
-		padding-right: $spacingXS !important;
+		padding-right: 0.25rem !important;
 	}
 	.u-padding-r2--sm {
-		padding-right: $spacingSM !important;
+		padding-right: 0.5rem !important;
 	}
 	.u-padding-r3--sm {
 		padding-right: 1rem !important;
@@ -304,10 +304,10 @@
 		padding-bottom: 0 !important;
 	}
 	.u-padding-b1--sm {
-		padding-bottom: $spacingXS !important;
+		padding-bottom: 0.25rem !important;
 	}
 	.u-padding-b2--sm {
-		padding-bottom: $spacingSM !important;
+		padding-bottom: 0.5rem !important;
 	}
 	.u-padding-b3--sm {
 		padding-bottom: 1rem !important;
@@ -329,10 +329,10 @@
 		padding-left: 0 !important;
 	}
 	.u-padding-l1--sm {
-		padding-left: $spacingXS !important;
+		padding-left: 0.25rem !important;
 	}
 	.u-padding-l2--sm {
-		padding-left: $spacingSM !important;
+		padding-left: 0.5rem !important;
 	}
 	.u-padding-l3--sm {
 		padding-left: 1rem !important;
@@ -356,12 +356,12 @@
 		padding-bottom: 0 !important;
 	}
 	.u-padding-v1--sm {
-		padding-top: $spacingXS !important;
-		padding-bottom: $spacingXS !important;
+		padding-top: 0.25rem !important;
+		padding-bottom: 0.25rem !important;
 	}
 	.u-padding-v2--sm {
-		padding-top: $spacingSM !important;
-		padding-bottom: $spacingSM !important;
+		padding-top: 0.5rem !important;
+		padding-bottom: 0.5rem !important;
 	}
 	.u-padding-v3--sm {
 		padding-top: 1rem !important;
@@ -389,12 +389,12 @@
 		padding-right: 0 !important;
 	}
 	.u-padding-h1--sm {
-		padding-left: $spacingXS !important;
-		padding-right: $spacingXS !important;
+		padding-left: 0.25rem !important;
+		padding-right: 0.25rem !important;
 	}
 	.u-padding-h2--sm {
-		padding-left: $spacingSM !important;
-		padding-right: $spacingSM !important;
+		padding-left: 0.5rem !important;
+		padding-right: 0.5rem !important;
 	}
 	.u-padding-h3--sm {
 		padding-left: 1rem !important;
@@ -421,10 +421,10 @@
 		padding: 0 !important;
 	}
 	.u-padding-1--sm {
-		padding: $spacingXS !important;
+		padding: 0.25rem !important;
 	}
 	.u-padding-2--sm {
-		padding: $spacingSM !important;
+		padding: 0.5rem !important;
 	}
 	.u-padding-3--sm {
 		padding: 1rem !important;
@@ -450,11 +450,11 @@
 }
 
 .u-margin-t1 {
-	margin-top: $spacingXS !important;
+	margin-top: 0.25rem !important;
 }
 
 .u-margin-t2 {
-	margin-top: $spacingSM !important;
+	margin-top: 0.5rem !important;
 }
 
 .u-margin-t3 {
@@ -483,11 +483,11 @@
 }
 
 .u-margin-r1 {
-	margin-right: $spacingXS !important;
+	margin-right: 0.25rem !important;
 }
 
 .u-margin-r2 {
-	margin-right: $spacingSM !important;
+	margin-right: 0.5rem !important;
 }
 
 .u-margin-r3 {
@@ -516,11 +516,11 @@
 }
 
 .u-margin-b1 {
-	margin-bottom: $spacingXS !important;
+	margin-bottom: 0.25rem !important;
 }
 
 .u-margin-b2 {
-	margin-bottom: $spacingSM !important;
+	margin-bottom: 0.5rem !important;
 }
 
 .u-margin-b3 {
@@ -549,11 +549,11 @@
 }
 
 .u-margin-l1 {
-	margin-left: $spacingXS !important;
+	margin-left: 0.25rem !important;
 }
 
 .u-margin-l2 {
-	margin-left: $spacingSM !important;
+	margin-left: 0.5rem !important;
 }
 
 .u-margin-l3 {
@@ -584,13 +584,13 @@
 }
 
 .u-margin-v1 {
-	margin-top: $spacingXS !important;
-	margin-bottom: $spacingXS !important;
+	margin-top: 0.25rem !important;
+	margin-bottom: 0.25rem !important;
 }
 
 .u-margin-v2 {
-	margin-top: $spacingSM !important;
-	margin-bottom: $spacingSM !important;
+	margin-top: 0.5rem !important;
+	margin-bottom: 0.5rem !important;
 }
 
 .u-margin-v3 {
@@ -625,13 +625,13 @@
 }
 
 .u-margin-h1 {
-	margin-left: $spacingXS !important;
-	margin-right: $spacingXS !important;
+	margin-left: 0.25rem !important;
+	margin-right: 0.25rem !important;
 }
 
 .u-margin-h2 {
-	margin-left: $spacingSM !important;
-	margin-right: $spacingSM !important;
+	margin-left: 0.5rem !important;
+	margin-right: 0.5rem !important;
 }
 
 .u-margin-h3 {
@@ -665,11 +665,11 @@
 }
 
 .u-margin-1 {
-	margin: $spacingXS !important;
+	margin: 0.25rem !important;
 }
 
 .u-margin-2 {
-	margin: $spacingSM !important;
+	margin: 0.5rem !important;
 }
 
 .u-margin-3 {
@@ -993,8 +993,8 @@
 }
 .grid > [class^='grid-col'] {
 	background: #dadbdf;
-	-webkit-box-shadow: inset 0 0 $spacingSM #ccc;
-	box-shadow: inset 0 0 $spacingSM #ccc;
+	-webkit-box-shadow: inset 0 0 0.5rem #ccc;
+	box-shadow: inset 0 0 0.5rem #ccc;
 	color: #999;
 	font-size: 1.2rem;
 	margin: 0;
