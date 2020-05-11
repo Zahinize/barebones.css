@@ -1,0 +1,195 @@
+@media (min-width: $breakPointsSM) {
+	/**********MARGIN**********/
+	/*****TOP*****/
+	.u-mg-t0--sm {
+		margin-top: 0 !important;
+	}
+	.u-mg-t1--sm {
+		margin-top: $spacingXS !important;
+	}
+	.u-mg-t2--sm {
+		margin-top: $spacingSM !important;
+	}
+	.u-mg-t3--sm {
+		margin-top: $spacing !important;
+	}
+	.u-mg-t4--sm {
+		margin-top: $spacingMD !important;
+	}
+	.u-mg-t5--sm {
+		margin-top: $spacingLG !important;
+	}
+	.u-mg-t6--sm {
+		margin-top: $spacingXL !important;
+	}
+	.u-mg-t7--sm {
+		margin-top: $spacingXXL !important;
+	}
+	/*****RIGHT*****/
+	.u-mg-r0--sm {
+		margin-right: 0 !important;
+	}
+	.u-mg-r1--sm {
+		margin-right: $spacingXS !important;
+	}
+	.u-mg-r2--sm {
+		margin-right: $spacingSM !important;
+	}
+	.u-mg-r3--sm {
+		margin-right: $spacing !important;
+	}
+	.u-mg-r4--sm {
+		margin-right: $spacingMD !important;
+	}
+	.u-mg-r5--sm {
+		margin-right: $spacingLG !important;
+	}
+	.u-mg-r6--sm {
+		margin-right: $spacingXL !important;
+	}
+	.u-mg-r7--sm {
+		margin-right: $spacingXXL !important;
+	}
+	/*****BOTTOM*****/
+	.u-mg-b0--sm {
+		margin-bottom: 0 !important;
+	}
+	.u-mg-b1--sm {
+		margin-bottom: $spacingXS !important;
+	}
+	.u-mg-b2--sm {
+		margin-bottom: $spacingSM !important;
+	}
+	.u-mg-b3--sm {
+		margin-bottom: $spacing !important;
+	}
+	.u-mg-b4--sm {
+		margin-bottom: $spacingMD !important;
+	}
+	.u-mg-b5--sm {
+		margin-bottom: $spacingLG !important;
+	}
+	.u-mg-b6--sm {
+		margin-bottom: $spacingXL !important;
+	}
+	.u-mg-b7--sm {
+		margin-bottom: $spacingXXL !important;
+	}
+	/*****LEFT*****/
+	.u-mg-l0--sm {
+		margin-left: 0 !important;
+	}
+	.u-mg-l1--sm {
+		margin-left: $spacingXS !important;
+	}
+	.u-mg-l2--sm {
+		margin-left: $spacingSM !important;
+	}
+	.u-mg-l3--sm {
+		margin-left: $spacing !important;
+	}
+	.u-mg-l4--sm {
+		margin-left: $spacingMD !important;
+	}
+	.u-mg-l5--sm {
+		margin-left: $spacingLG !important;
+	}
+	.u-mg-l6--sm {
+		margin-left: $spacingXL !important;
+	}
+	.u-mg-l7--sm {
+		margin-left: $spacingXXL !important;
+	}
+	/*****Combination*****/
+	/***Vertical***/
+	.u-mg-v0--sm {
+		margin-top: 0 !important;
+		margin-bottom: 0 !important;
+	}
+	.u-mg-v1--sm {
+		margin-top: $spacingXS !important;
+		margin-bottom: $spacingXS !important;
+	}
+	.u-mg-v2--sm {
+		margin-top: $spacingSM !important;
+		margin-bottom: $spacingSM !important;
+	}
+	.u-mg-v3--sm {
+		margin-top: $spacing !important;
+		margin-bottom: $spacing !important;
+	}
+	.u-mg-v4--sm {
+		margin-top: $spacingMD !important;
+		margin-bottom: $spacingMD !important;
+	}
+	.u-mg-v5--sm {
+		margin-top: $spacingLG !important;
+		margin-bottom: $spacingLG !important;
+	}
+	.u-mg-v6--sm {
+		margin-top: $spacingXL !important;
+		margin-bottom: $spacingXL !important;
+	}
+	.u-mg-v7--sm {
+		margin-top: $spacingXXL !important;
+		margin-bottom: $spacingXXL !important;
+	}
+	/***Horizontal***/
+	.u-mg-h0--sm {
+		margin-left: 0 !important;
+		margin-right: 0 !important;
+	}
+	.u-mg-h1--sm {
+		margin-left: $spacingXS !important;
+		margin-right: $spacingXS !important;
+	}
+	.u-mg-h2--sm {
+		margin-left: $spacingSM !important;
+		margin-right: $spacingSM !important;
+	}
+	.u-mg-h3--sm {
+		margin-left: $spacing !important;
+		margin-right: $spacing !important;
+	}
+	.u-mg-h4--sm {
+		margin-left: $spacingMD !important;
+		margin-right: $spacingMD !important;
+	}
+	.u-mg-h5--sm {
+		margin-left: $spacingLG !important;
+		margin-right: $spacingLG !important;
+	}
+	.u-mg-h6--sm {
+		margin-left: $spacingXL !important;
+		margin-right: $spacingXL !important;
+	}
+	.u-mg-h7--sm {
+		margin-left: $spacingXXL !important;
+		margin-right: $spacingXXL !important;
+	}
+	/*****GENERIC*****/
+	.u-mg-0--sm {
+		margin: 0 !important;
+	}
+	.u-mg-1--sm {
+		margin: $spacingXS !important;
+	}
+	.u-mg-2--sm {
+		margin: $spacingSM !important;
+	}
+	.u-mg-3--sm {
+		margin: $spacing !important;
+	}
+	.u-mg-4--sm {
+		margin: $spacingMD !important;
+	}
+	.u-mg-5--sm {
+		margin: $spacingLG !important;
+	}
+	.u-mg-6--sm {
+		margin: $spacingXL !important;
+	}
+	.u-mg-7--sm {
+		margin: $spacingXXL !important;
+	}
+}
