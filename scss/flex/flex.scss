@@ -1,0 +1,112 @@
+.flex {
+  display: flex;
+}
+.flex-inline {
+  display: inline-flex;
+}
+.flex-row {
+  flex-direction: row;
+}
+.flex-row-reverse {
+  flex-direction: row-reverse;
+}
+.flex-column {
+  flex-direction: column;
+}
+.flex-column-reverse {
+  flex-direction: column-reverse;
+}
+.flex-wrap-no {
+  flex-wrap: nowrap;
+}
+.flex-wrap {
+  flex-wrap: wrap;
+}
+.flex-wrap-reverse {
+  flex-wrap: wrap-reverse;
+}
+.flex-justify-start {
+  justify-content: flex-start;
+}
+.flex-justify-center {
+  justify-content: center;
+}
+.flex-justify-end {
+  justify-content: flex-end;
+}
+.flex-justify-between {
+  justify-content: space-between;
+}
+.flex-justify-around {
+  justify-content: space-around;
+}
+.flex-justify-evenly {
+  justify-content: space-evenly;
+}
+.flex-align-start {
+  align-items: flex-start;
+}
+.flex-align-center {
+  align-items: center;
+}
+.flex-align-end {
+  align-items: flex-end;
+}
+.flex-align-stretch {
+  align-items: stretch;
+}
+.flex-align-baseline {
+  align-items: baseline;
+}
+
+.flex-grow-1 {
+  flex: 1;
+}
+.flex-grow-0.5 {
+  flex: 0.5;
+}
+.flex-grow-2 {
+  flex: 2;
+}
+.flex-grow-3 {
+  flex: 3;
+}
+.flex-grow-4 {
+  flex: 4;
+}
+.flex-grow-5 {
+  flex: 5;
+}
+.flex-order-1 {
+  order: 1;
+}
+.flex-order-2 {
+  order: 2;
+}
+.flex-order-3 {
+  order: 3;
+}
+.flex-order-4 {
+  order: 4;
+}
+.flex-order-5 {
+  order: 5;
+}
+.flex-align-self-auto {
+  align-self: auto;
+}
+.flex-align-self-start {
+  align-self: flex-start;
+}
+.flex-align-self-center {
+  align-self: center;
+}
+.flex-align-self-end {
+  align-self: flex-end;
+}
+.flex-align-self-stretch {
+  align-self: stretch;
+}
+.flex-align-self-baseline {
+  align-self: baseline;
+}
