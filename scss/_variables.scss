@@ -8,8 +8,8 @@ $twenty: 20;
 $dimension: 1rem;
 
 /***** Spacing Dimensions *****/
-$spacingXS: ($dimension * .25); //0.25rem
-$spacingSM: ($dimension * .5); //0.5rem
+$spacingXS: ($dimension * 0.25); //0.25rem
+$spacingSM: ($dimension * 0.5); //0.5rem
 $spacing: $dimension; //1rem
 $spacingMD: ($dimension * 2); //2rem
 $spacingLG: ($dimension * 4); //4rem
@@ -17,8 +17,8 @@ $spacingXL: ($dimension * 8); //8rem
 $spacingXXL: ($dimension * 16); //16rem
 
 /***** Typography Dimensions *****/
-$typographyXS: ($dimension * .625); //0.625rem
-$typographySM: ($dimension * .875); //0.875rem
+$typographyXS: ($dimension * 0.625); //0.625rem
+$typographySM: ($dimension * 0.875); //0.875rem
 $typography: $dimension; //1rem
 $typographyMD: ($dimension * 1.25); //1.25rem
 $typographyLG: ($dimension * 1.5); //1.5rem
